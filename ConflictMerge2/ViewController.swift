@@ -15,10 +15,13 @@ class ViewController: UIViewController {
         
        // master first commit
         print("it is master branch 1")
-        print("it is master 2")
+        print("this is development branch1")
+        print("this is development branch2")
         print("it is master 3")
         
         //=================
+        
+        print("thid development 3")
     }
 
 
