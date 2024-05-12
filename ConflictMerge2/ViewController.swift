@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         print("this is development branch1")
         print("it is master reverse green")
 
-        print("checking reverse Merge red titanic")
+        print("checking reverse Merge red largeOcean ship")
         print("checking reverse Merge blue flight")
         
         print("it is master reverse purpal")
@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         //=================
         
         print("thid development 3")
+        print("new comment in dev")
     }
 
 
