@@ -32,6 +32,8 @@ class ViewController: UIViewController {
         print("new comment in dev")
         print("new commit in main")
         
+        print("cherry pick")
+        
     }
 
 
