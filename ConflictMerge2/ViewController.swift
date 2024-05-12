@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         print("it is master branch 1")
         print("this is development branch1")
         print("it is master reverse green")
+        
+        print("checking reverse Merge blue flight")
+        
         print("it is master reverse purpal")
         print("this is development branch2")
         print("it is master 3")
