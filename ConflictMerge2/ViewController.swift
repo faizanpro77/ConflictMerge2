@@ -16,7 +16,7 @@ class ViewController: UIViewController {
        // master first commit
         print("it is master branch 1")
         print("this is development branch1")
-        print("it is master reverse merge")
+        print("it is master reverse green")
         print("this is development branch2")
         print("it is master 3")
         
